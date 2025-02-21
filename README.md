@@ -1,4 +1,4 @@
-### Enhancement Two Narrative
+## Enhancement Two Narrative
 
 The artifacts I have selected to use for enhancement two remove the hard coded access to the database and implement user authentication for accessing the database through the web app. The project objective was to create a client-facing web application linked to an animal shelter database to aid the company in identifying dogs that are good candidates for search-and-rescue training. I chose to improve the app by first creating a user authentication controller for a user to create an account and login. I also created a user model that hashes users’ passwords before storing and also verifies the user by comparing the password provided with the one stored.
 
