@@ -1,5 +1,8 @@
-# ePortfolio
-CS499 Computer Science Capstone
+## Enhancement Three Narrative
 
-Link to Code Review:
-[https://youtu.be/rc7uFLurJT0]
+The artifacts I have selected to use for enhancement three are the coding for database authentication and indexing. The original coding had the database access hard coded into the Java class and the indexing was done through Jupyter Notebook. The original project came from a previous course with the objective of creating a web application linked to an animal shelter database to aid a company in identifying dogs that are good candidates for search-and-rescue training. 
+
+I chose these artifacts to enhance as part of rebuilding the original app to be used in a full stack development using a MEAN framework. These artifacts are part of the backend that can be easily used to connect to UI frontend created by what would be another team member of a development team. The database requires an authenticated user in order for access. There is also indexing for fast retrieval of the dogs that meet the specifications of the different rescue types. These enhancements are in line with industry standards of best practices for security and authentication as well as modular coding for easier troubleshooting and maintainability. This highlights my skill in implementing security standards and my ability take coding and break it into more modular components. 
+
+By completing the backend coding with required database authentication before access and indexing for quick retrieval I have achieved several course outcomes. I employed strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science, as well as demonstrated an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals. I also developed a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources.
+
