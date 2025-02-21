@@ -1,4 +1,4 @@
-**Enhancement One Narrative**
+## Enhancement One Narrative
 
 The artifact I have selected to use for enhancement one is the CRUD Python code from a project I completed in the CS340 course. The project objective was to create a client-facing web application linked to an animal shelter database to aid the company in identifying dogs that are good candidates for search-and-rescue training. I chose this artifact because I believe it could benefit from being updated to an app with full stack development using MEAN.
 
