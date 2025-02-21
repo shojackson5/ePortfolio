@@ -1,3 +1,4 @@
+// Routes for animal CRUD functions
 const express = require('express');
 const { verifyAuth } = require('../middleware/authMiddleware');
 const {
