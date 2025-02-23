@@ -21,24 +21,26 @@ Data and application security are a crucial aspect of software development. I im
 Successfully working on projects requires clear communication with stakeholders and collaboration with team members. My ability to present technical concepts to non-technical audiences, particularly in data visualization and system design, highlights my strength in bridging the gap between technology and business needs. Throughout my coursework, I have worked on group projects that required effective communication and task delegation which has prepared me for professional settings where teamwork and clear documentation are critical to project success.
 ### Overview
 The project I chose to enhance for this ePortfolio is an application developed for an animal shelter as part of my CS340 coursework during the August 2024 semester. The application was a web interface to an animal shelter database. The project objective was to implement a way for an Animal Rescue company to view the database and find eligible dogs what would be good candidates for different types of search and rescue operations.
+
+[Original Project Code](https://github.com/shojackson5/ePortfolio/tree/Original-Project)
 #### **_Code Review_**
 [Code Review](https://youtu.be/rc7uFLurJT0)
 
 In this code review, that I used for all three of my artifact enhancements, I analyze the original project code for weaknesses, limitations, and vulnerabilities and explain my plan for enhancements. The video is a walk-through of existing code and planned enhancements, and it demonstrates the following critical elements for each category:
 
 #### **_Software Engineering and Design_**
-- [Enhancement 1 Artifact](https://github.com/shojackson5/ePortfolio/tree/Enhancement-1)
 - [Enhancement 1 Narrative](https://github.com/shojackson5/ePortfolio/blob/Enhancement-1/README.md)
+- [Enhancement 1 Artifact](https://github.com/shojackson5/ePortfolio/tree/Enhancement-1)
 
 My work in full-stack development, transitioning from Python to Java and integrating MEAN stack technologies showcases my ability to build and enhance software solutions.
 #### **_Algorithms and Data Structures_** 
-- [Enhancement 2 Artifact](https://github.com/shojackson5/ePortfolio/tree/Enhancement-2)
 - [Enhancement 2 Narrative](https://github.com/shojackson5/ePortfolio/blob/Enhancement-2/README.md)
+- [Enhancement 2 Artifact](https://github.com/shojackson5/ePortfolio/tree/Enhancement-2)
 
 Implementing security measures, such as authentication and password encryption, demonstrates my ability to optimize system security and efficiency.
 #### **_Database Management_**
-- [Enhancement 3 Artifact](https://github.com/shojackson5/ePortfolio/tree/Enhancement-3)
 - [Enhancement 3 Narrative](https://github.com/shojackson5/ePortfolio/blob/Enhancement-3/README.md)
+- [Enhancement 3 Artifact](https://github.com/shojackson5/ePortfolio/tree/Enhancement-3)
 
 My project involving a MongoDB database with a dynamic web interface illustrates my ability to work with both SQL and NoSQL databases while ensuring data integrity and security.
 
